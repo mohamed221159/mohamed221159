@@ -46,5 +46,5 @@ Currently working in Networking & System Administration, while learning DevOps a
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: your-linkedin
-- Email: your-email
+- LinkedIn: https://www.linkedin.com/in/mohamed-elkhlawy
+- Email: mhmdalkhlawy206@gmail.com
