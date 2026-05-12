@@ -7,7 +7,7 @@ Currently working in Networking & System Administration, while learning DevOps a
 
 ## 🛠 Skills
 
-![My Skills](https://skillicons.dev/icons?i=angular,nodejs,mongodb,mysql,sqlserver,linux,docker,git,github)
+![My Skills](https://skillicons.dev/icons?i=angular,nodejs,mongodb,mysql,sqlite,linux,docker,git,github)
 
 ## 💻 Tech Stack
 
