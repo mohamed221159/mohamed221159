@@ -25,10 +25,10 @@ Currently working in Networking & System Administration, while learning DevOps a
 ![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Networking & System Administration
-- Windows Server
-- Linux
-- Networking Basics
-- Active Directory
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Networking](https://img.shields.io/badge/Networking_Basics-1E90FF?style=for-the-badge)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0033A0?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Currently Learning
 - DevOps
