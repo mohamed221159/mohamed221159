@@ -24,7 +24,7 @@ Currently working in Networking & System Administration, while learning DevOps a
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Technologies-232F3E?style=for-the-badge&logo=icloud&logoColor=white)
 
-![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,git,github,githubactions,jenkins,aws,azure,gcp,bash,terraform)
+![DevOps Skills](https://skillicons.dev/icons?i=docker,linux,kubernetes,git,github,githubactions,jenkins,aws,azure,gcp,bash,terraform)
 ## 📌 Projects
 - Dia Best Application
 - Movie App with Angular
