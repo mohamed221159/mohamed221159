@@ -21,6 +21,8 @@ Currently working in Networking & System Administration, while learning DevOps a
 
 ### Database
 ![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### Networking & System Administration
 - Windows Server
