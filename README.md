@@ -31,10 +31,10 @@ Currently working in Networking & System Administration, while learning DevOps a
 ![Active Directory](https://img.shields.io/badge/Active_Directory-0033A0?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ### Currently Learning
-- DevOps
-- Docker
-- CI/CD
-- Cloud Technologies
+![DevOps](https://img.shields.io/badge/DevOps-0A66C2?style=for-the-badge&logo=devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-FF6F00?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Technologies-232F3E?style=for-the-badge&logo=icloud&logoColor=white)
 
 ---
 
