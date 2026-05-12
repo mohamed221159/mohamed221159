@@ -17,9 +17,7 @@ Currently working in Networking & System Administration, while learning DevOps a
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,angular)
 
 ### Backend
-- Node.js
-- Express.js
-- Python
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask)
 
 ### Database
 - MongoDB
