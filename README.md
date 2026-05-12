@@ -5,6 +5,8 @@ Full Stack Developer with experience in Angular, Node.js, and Databases.
 
 Currently working in Networking & System Administration, while learning DevOps and Cloud Technologies.
 
+---
+
 ## 🛠 Skills
 
 ![My Skills](https://skillicons.dev/icons?i=angular,nodejs,mongodb,mysql,sqlite,linux,docker,git,github)
@@ -50,3 +52,7 @@ Currently working in Networking & System Administration, while learning DevOps a
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/mohamed-elkhlawy
 - Email: mhmdalkhlawy206@gmail.com
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedelkhlawy&show_icons=true&theme=tokyonight)
