@@ -14,11 +14,7 @@ Currently working in Networking & System Administration, while learning DevOps a
 ## 💻 Tech Stack
 
 ### Frontend
-- Angular
-- HTML
-- CSS
-- Bootstrap
-- JavaScript
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,angular)
 
 ### Backend
 - Node.js
