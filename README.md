@@ -20,8 +20,7 @@ Currently working in Networking & System Administration, while learning DevOps a
 ![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask)
 
 ### Database
-- MongoDB
-- MySQL
+![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,postgres)
 
 ### Networking & System Administration
 - Windows Server
