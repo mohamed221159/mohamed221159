@@ -5,7 +5,9 @@ Full Stack Developer with experience in Angular, Node.js, and Databases.
 
 Currently working in Networking & System Administration, while learning DevOps and Cloud Technologies.
 
----
+## 🛠 Skills
+
+![My Skills](https://skillicons.dev/icons?i=angular,nodejs,mongodb,mysql,linux,docker,git,github)
 
 ## 💻 Tech Stack
 
