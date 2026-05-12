@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Mohamed
 
-<!--
-**mohamed221159/mohamed221159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Full Stack Developer with experience in Angular, Node.js, and Databases.
 
-Here are some ideas to get you started:
+Currently working in Networking & System Administration, while learning DevOps and Cloud Technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+### Frontend
+- Angular
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MongoDB
+- MySQL
+
+### Networking & System Administration
+- Windows Server
+- Linux
+- Networking Basics
+- Active Directory
+
+### Currently Learning
+- DevOps
+- Docker
+- CI/CD
+- Cloud Technologies
+
+---
+
+## 📌 Projects
+- Sales Management System
+- Movie App with Angular
+- REST APIs using Node.js & Express
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: your-linkedin
+- Email: your-email
